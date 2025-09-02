@@ -20,7 +20,7 @@ comments: 1
 
 <p><b>Interests:</b><br>
   Robot Software<br>
-  -Mobile robot, SLAM, Manipulator, Reinforcement Learning
+  -Mobile robot, SLAM, Manipulator, Reinforcement Learning<br>
   System Software<br>
   -Divice Driver, Operating System<br>
   Embeded System</p>
