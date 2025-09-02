@@ -14,11 +14,13 @@ comments: 1
   Dankook Univ. Department of Software</p>
 
 <p><b>Skill:</b><br>
-  Main - C/C++, Java<br>
-  Sub - Linux, Python<br>
-  Experience - R, SQL</p>
+  Main - Python, ROS, Linux<br>
+  Sub - C/C++, Java<br>
+  Experience - R, SQL, HTML/CSS, JavaScript</p>
 
 <p><b>Interests:</b><br>
+  Robot Software
+  -Mobile robot, SLAM, Manipulator, Reinforcement Learning
   System Software<br>
   -Divice Driver, Operating System<br>
   Embeded System</p>
