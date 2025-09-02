@@ -19,7 +19,7 @@ comments: 1
   Experience - R, SQL, HTML/CSS, JavaScript</p>
 
 <p><b>Interests:</b><br>
-  Robot Software
+  Robot Software<br>
   -Mobile robot, SLAM, Manipulator, Reinforcement Learning
   System Software<br>
   -Divice Driver, Operating System<br>
