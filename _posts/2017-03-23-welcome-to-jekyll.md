@@ -23,7 +23,7 @@ comments: 1
   -Mobile robot, SLAM, Manipulator, Reinforcement Learning<br>
   System Software<br>
   -Divice Driver, Operating System<br>
-  Embeded System</p>
+  Embedded System</p>
 
 <p><b>Favorite things:</b><br>
   Drawing pictures<br>
